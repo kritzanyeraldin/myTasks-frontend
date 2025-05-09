@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+@theme {
+	--font-heading: 'Pacifico', 'sans-serif';
+	--font-regular: 'Poppins', 'sans-serif';
+}

@@ -1,0 +1,6 @@
+# External folders
+node_modules
+.husky
+
+# External files
+pnpm-lock.yaml
