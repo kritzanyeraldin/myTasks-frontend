@@ -18,9 +18,9 @@ Primero, debe clonar el repositorio y luego instalar las dependencias:
 
 ```sh
 # con https
-git clone https://github.com/kritzanyeraldin/myTasks.git
+git clone https://github.com/kritzanyeraldin/myTasks-frontend.git
 # o con ssh
-git clone git@github.com:kritzanyeraldin/myTasks.git
+git clone git@github.com:kritzanyeraldin/myTasks-frontend.git
 
 pnpm install
 ```
