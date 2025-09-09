@@ -1,6 +1,6 @@
 # To-do-list (frontend)
 
-Este proyecto es una aplicación web construida con **React** y **Vite** como parte de un reto técnico para **Softtek**.
+Este proyecto es una aplicación web construida con **React** y **Vite**.
 
 ## Requisitos
 
