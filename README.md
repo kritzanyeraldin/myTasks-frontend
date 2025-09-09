@@ -1,4 +1,4 @@
-# Reto técnico de Softtek (frontend)
+# To-do-list (frontend)
 
 Este proyecto es una aplicación web construida con **React** y **Vite** como parte de un reto técnico para **Softtek**.
 
@@ -18,11 +18,10 @@ Primero, debe clonar el repositorio y luego instalar las dependencias:
 
 ```sh
 # con https
-git clone https://github.com/kritzanyeraldin/softtek-challenge-frontend.git
+git clone https://github.com/kritzanyeraldin/myTasks.git
 # o con ssh
-git clone git@github.com:kritzanyeraldin/softtek-challenge-frontend.git
+git clone git@github.com:kritzanyeraldin/myTasks.git
 
-cd softtek-challenge-frontend
 pnpm install
 ```
 
